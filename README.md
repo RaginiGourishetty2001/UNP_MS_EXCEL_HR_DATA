@@ -6,7 +6,9 @@
  Male attrition is more than female attrition.
  The highest attrition is between 18-27 age group.
  Poor work life balance and extending work time more than the working hours.
- I correlated each and every point of the data and i came out with, what is the reason for attrition in the company.
+ 
+  
+  We have created dashboards and slicers and we correlated each and every point of the data 
 
    PDF.. https://drive.google.com/file/d/1a0VV1UAsKyP_bVnFQd0HSBNGbmTk5gZa/view?usp=sharing
 
